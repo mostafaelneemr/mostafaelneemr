@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Elnemr 👑</h1>
 <h3 align="center">Backend Web Developer 💎.</h3>
+<hr>
 
 - 🔭 I’m currently working At **A.Tech**
 - 📫 How to reach me **mostafa.elnemr50@gmail.com**
@@ -27,8 +28,6 @@
 <p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelneemr&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mostafaelneemr" /> </p>
 <p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mostafaelneemr&show_icons=true&locale=en&theme=tokyonight" alt="mostafaelneemr" /> </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelneemr&" alt="mostafaelneemr" /></p>
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
