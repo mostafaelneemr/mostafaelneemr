@@ -26,9 +26,8 @@
 
 ## 📊 GitHub Stats
 <p align="left"> 
-<!--     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelneemr&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mostafaelneemr" />  -->
-</p>
-<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mostafaelneemr&show_icons=true&locale=en&theme=tokyonight" alt="mostafaelneemr" /> </p>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelneemr&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mostafaelneemr" /> 
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mostafaelneemr&show_icons=true&locale=en&theme=tokyonight" alt="mostafaelneemr" /> </p>
 
 
 ## 🏆 GitHub Profile Trophies
